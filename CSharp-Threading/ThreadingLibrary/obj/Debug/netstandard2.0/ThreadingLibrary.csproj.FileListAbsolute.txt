@@ -1,0 +1,9 @@
+D:\Coding\Threading\ThreadingLibrary\bin\Debug\netstandard2.0\ThreadingLibrary.deps.json
+D:\Coding\Threading\ThreadingLibrary\bin\Debug\netstandard2.0\ThreadingLibrary.dll
+D:\Coding\Threading\ThreadingLibrary\bin\Debug\netstandard2.0\ThreadingLibrary.pdb
+D:\Coding\Threading\ThreadingLibrary\obj\Debug\netstandard2.0\ThreadingLibrary.csprojAssemblyReference.cache
+D:\Coding\Threading\ThreadingLibrary\obj\Debug\netstandard2.0\ThreadingLibrary.csproj.CoreCompileInputs.cache
+D:\Coding\Threading\ThreadingLibrary\obj\Debug\netstandard2.0\ThreadingLibrary.AssemblyInfoInputs.cache
+D:\Coding\Threading\ThreadingLibrary\obj\Debug\netstandard2.0\ThreadingLibrary.AssemblyInfo.cs
+D:\Coding\Threading\ThreadingLibrary\obj\Debug\netstandard2.0\ThreadingLibrary.dll
+D:\Coding\Threading\ThreadingLibrary\obj\Debug\netstandard2.0\ThreadingLibrary.pdb
